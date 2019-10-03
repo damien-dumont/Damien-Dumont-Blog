@@ -12,7 +12,22 @@
     "date": "2019-10-03",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-03T08:40:50+02:00"
+    "last_modified": "2019-10-03T08:53:48+02:00"
+  },
+  {
+    "path": "posts/2019-10-03-article-test/",
+    "title": "article-test",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Damien Dumont",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-03",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-03T08:56:09+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -30,6 +45,6 @@
       "track"
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-03T08:25:53+02:00"
+    "last_modified": "2019-10-02T14:29:43+02:00"
   }
 ]

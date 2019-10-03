@@ -1,11 +1,8 @@
 ---
-title: "Article One"
+title: "article-2"
 author:
   - name: Damien Dumont
-date: 10-02-2019
-categories:
-  - elephant
-  - track
+date: 10-03-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -19,5 +16,4 @@ Distill is a publication format for scientific and technical writing, native to 
 
 Learn more about using Distill at <https://rstudio.github.io/distill>.
 
-
-
+test

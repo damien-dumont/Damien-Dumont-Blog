@@ -1,33 +1,20 @@
 [
   {
-    "path": "posts/2019-10-03-article-2/",
-    "title": "article-2",
-    "description": {},
+    "path": "posts/2019-10-06-articleone/",
+    "title": "Article one : Water found for first time on 'potentially habitable' planet",
+    "description": "Astronomers have for the first time discovered water in the atmosphere of a planet orbiting within the habitable zone of a distant star.",
     "author": [
       {
         "name": "Damien Dumont",
         "url": {}
       }
     ],
-    "date": "2019-10-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-06T15:43:11+02:00"
-  },
-  {
-    "path": "posts/2019-10-03-article-test/",
-    "title": "article-test",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "Damien Dumont",
-        "url": {}
-      }
+    "date": "2019-10-06",
+    "categories": [
+      "Habitable planets"
     ],
-    "date": "2019-10-03",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-10-06T15:45:23+02:00"
+    "preview": "posts/2019-10-06-articleone/image/water_exoplanet.jpg",
+    "last_modified": "2019-10-06T18:06:46+02:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",

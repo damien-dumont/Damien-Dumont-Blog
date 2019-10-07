@@ -1,5 +1,5 @@
 ---
-title: "Exobiogenesis: the appearance of life, outside of the Earth"
+title: "Extraterrestrial life: can it appear on another planet?"
 site: distill::distill_website
 listing: posts
 ---

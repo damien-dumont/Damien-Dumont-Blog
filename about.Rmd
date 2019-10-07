@@ -3,7 +3,6 @@ title: "About me"
 ---
 
 
-This section also must include: 
 
-My name is Dumont Damien. I'm a university student, currently in second cycle of bachelor in the University of Mons for the 2019-2020 academic year. My teacher is Ms Ingrid Van Lancker, and I am in group 1. I am going to talk about exobiogenesis, or the apparition of life, or at least the possibility of it, outside of the Earth.
+My name is Dumont Damien. I'm a university student, currently in second cycle of bachelor in the University of Mons for the 2019-2020 academic year. My teacher is Ms Ingrid Van Lancker, and I am in group 1. I am going to talk about the apparition of life, or at least the possibility of it, outside of the Earth.
 

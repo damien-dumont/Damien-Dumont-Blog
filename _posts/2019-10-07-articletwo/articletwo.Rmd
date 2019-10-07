@@ -1,0 +1,32 @@
+---
+title: "Article two: Lab-made primordial soup yields RNA bases:"
+description: |
+  The chemical feat strengthens theory that the first life on Earth was based on RNA.
+author:
+  - name: Damien Dumont
+    url: {}
+Categories:
+  -Origin of life
+date: 10-07-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Vocabulary 
+
+| Words from the text | Synonym/explanation in English |
+| ------------------- | ------------------------------ |
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+
+
+
+<https://www.nature.com/articles/d41586-019-02622-4>

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-10-07-articletwo/",
+    "title": "Article two: Lab-made primordial soup yields RNA bases:",
+    "description": "The chemical feat strengthens theory that the first life on Earth was based on RNA.",
+    "author": [
+      {
+        "name": "Damien Dumont",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-07",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-07T07:51:35+02:00"
+  },
+  {
     "path": "posts/2019-10-06-articleone/",
     "title": "Article one : Water found for first time on 'potentially habitable' planet",
     "description": "Astronomers have for the first time discovered water in the atmosphere of a planet orbiting within the habitable zone of a distant star.",

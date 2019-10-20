@@ -12,7 +12,7 @@
     "date": "2019-10-07",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-10-07T07:51:35+02:00"
+    "last_modified": "2019-10-11T11:31:57+02:00"
   },
   {
     "path": "posts/2019-10-06-articleone/",
@@ -29,24 +29,6 @@
       "Habitable planets"
     ],
     "preview": "posts/2019-10-06-articleone/image/water_exoplanet.jpg",
-    "last_modified": "2019-10-07T07:41:03+02:00"
-  },
-  {
-    "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time",
-    "description": {},
-    "author": [
-      {
-        "name": "Nicolas Devilez",
-        "url": {}
-      }
-    ],
-    "date": "2019-09-18",
-    "categories": [
-      "elephant",
-      "track"
-    ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-07T15:59:10+02:00"
+    "last_modified": "2019-10-20T12:31:07+02:00"
   }
 ]

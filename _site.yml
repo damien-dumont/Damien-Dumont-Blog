@@ -14,5 +14,6 @@ navbar:
 base_url: https://damien-dumont.github.io/Damien-Dumont-Blog
 collections:
     posts:
+      disqus: https-damien-dumont-github-io-damien-dumont-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article

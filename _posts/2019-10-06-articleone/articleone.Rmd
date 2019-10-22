@@ -26,11 +26,11 @@ knitr::opts_chunk$set(echo = FALSE)
 | Words from the text | Synonym/explanation in English | French translation |
 |--|--|--|
 | Benign | Harmless (in this case)  | Bénin |
-| Filtered through | To get sieved    | Être filtré par           |
-| Dispute the claim | To challenge a finding                                                        | Contester une affirmation |
-| Long haul | A long journey                                                                | Un long voyage            |
-| Survey | A sampling of elements used to indicate what a complete analysis might reveal | Une étude                 |
-| Perhaps | Possibly                                                                      | Peut-être                 |
+| Filtered through | To get sieved    | Être filtré par |
+| Dispute the claim | To challenge a finding | Contester une affirmation |
+| Long haul | A long journey | Un long voyage  |
+| Survey | A sampling of elements used to indicate what a complete analysis might reveal | Une étude   |
+| Perhaps | Possibly | Peut-être  |
 
 ## Analysis table 
 
@@ -43,4 +43,4 @@ knitr::opts_chunk$set(echo = FALSE)
 | Remaining questions | Maybe this planet houses life? Maybe this planet is too massive for it to happen? Maybe this planet is, in fact, a gas planet, like a small Neptune, instead of a rocky planet like the Earth of Mars? |
 | Word count | 891 |
 
-<https://www.bbc.com/news/science-environment-49648746>
+Source : <https://www.bbc.com/news/science-environment-49648746>, September 12, 2019

@@ -5,7 +5,7 @@ description: |
 author:
   - name: Damien Dumont
     url: {"https://www.space.com/breakthrough-listen-nasa-tess-seti-search.html"}
-Categories:
+categories:
   - Habitable planets
 preview: images/planet.jpg
 date: 10-27-2019

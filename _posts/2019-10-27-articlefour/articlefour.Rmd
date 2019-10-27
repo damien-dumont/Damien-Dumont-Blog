@@ -5,7 +5,7 @@ description: |
 author:
   - name: Damien Dumont
     url: {"https://www.space.com/alien-megastructure-mysteriously-dimming-stars.html"}
-Categories:
+categories:
   - Alien civilization
 preview: images/system.jpg
 date: 10-27-2019

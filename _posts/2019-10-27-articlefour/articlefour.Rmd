@@ -1,0 +1,42 @@
+---
+title: "'Alien Megastructure' Star May Not Be So Special After All"
+description: |
+  A short description of the post.
+author:
+  - name: Damien Dumont
+    url: {"https://www.space.com/alien-megastructure-mysteriously-dimming-stars.html"}
+Categories:
+  - Alien civilization
+preview: images/system.jpg
+date: 10-27-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![Credit: (Image: © NASA/JPL-Caltech)](images/system.jpg)
+
+## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
+
+
+
+## II - VOCABULARY:
+
+| Words from the text | Synonym/explanation in English | French translation |
+|--|--|--|
+
+
+## III - ANALYSIS TABLE ABOUT THE STUDY:
+
+| Researchers? |  |
+|-|-|
+| Published in? When (if mentioned)? |  |
+| General topic |  |
+| Procedure/what was examined |  |
+| Conclusion/discovery |  |
+| Remaining questions |  |
+

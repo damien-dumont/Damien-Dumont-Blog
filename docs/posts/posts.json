@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2019-11-17-my-english-activity-log/",
+    "title": "My english activity log",
+    "description": "Or where I list what I have been watching this year.",
+    "author": [
+      {
+        "name": "Damien Dumont",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-17",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-17T17:03:07+01:00"
+  },
+  {
     "path": "posts/2019-10-27-articlefour/",
     "title": "'Alien Megastructure' Star May Not Be So Special After All",
     "description": "A short description of the post.",
@@ -21,7 +36,7 @@
   {
     "path": "posts/2019-10-27-articlethree/",
     "title": "NASA's Planet-Hunting Probe Joins the Search for Intelligent Aliens",
-    "description": "A short description of the post.",
+    "description": "Scientists with the TESS mission will work with the Breakthrough Listen project.",
     "author": [
       {
         "name": "Damien Dumont",
@@ -35,7 +50,7 @@
       "Habitable planets"
     ],
     "preview": "posts/2019-10-27-articlethree/images/planet.jpg",
-    "last_modified": "2019-10-27T14:47:09+01:00"
+    "last_modified": "2019-11-17T17:02:15+01:00"
   },
   {
     "path": "posts/2019-10-07-articletwo/",

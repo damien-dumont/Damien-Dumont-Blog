@@ -1,0 +1,43 @@
+---
+title: "My english activity log"
+description: |
+  Or where I list what I have been watching this year.
+author:
+  - name: Damien Dumont
+date: 11-17-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+# Before 2019
+## Films
+
+I don’t have any movie that holds a big place in my heart really, but I would still recommend the amazing « Koe no katashi », or « A silent voice » in English, which is a wonderful movie about a deaf girl and her former bully, who try to reconcile with their life as they both got rejected from society, the girl because of her disability, and the boy because of his intensive bullying, which led her to leave the class and him taking all the blame, when they were in elementary school. This movie is one of the best japanese animated movies ever, with the score, the animation, the characters, all close to perfection. I’ve shed many tears watching this movie.
+
+Aside from that, I also like franchises like Lord of the Ring or Star Wars.
+
+## TV series
+
+A series I would personnally recommend would be the amazing TV series « The Expanse ». It mainly shows the future of Humanity, when we will have colonised the solar system. In this universe, Mars (who gained independence) and the Earth have a tense relationship, akin to the cold war. They focus on gathering resources from the asteroïd belt and Jovian/Saturnian moons, whose planetoïds also go a widespread indepententist movement. The most interesting aspect of the series is it’s realism, as every spaceship looks like what they could be in a century. The plot is intense, and the genre, even though it might be a bit confusing at times, oscillates between noir and thriller. I cannot recommend it enough, there are already 3 seasons made by syfy, and Amazon is producing a fourth season, coming in December 2019.
+
+## Podcasts
+
+I don’t watch too much English podcasts, or any podcasts at all really, as I prefer watching news, scientific, or historic videos. I really enjoy watching the « Joueur du Grenier », a youtuber talking and reacting to old, and most of the time really bad, video games. His style is inspired from the well-known AVGN, the angry video-games nerd. It’s really a lot of fun.
+
+## Books
+
+One book series I really like reading is the « Spook » series. It’s a fantasy series written by Joseph Delaney. In the (unnamed yet easily recognisable) county of Lancashire, witches and monsters ravage the countryside. However, normal human being, either unable to fight or even see them, call for the help of spooks, who are seventh sons of seventh sons, thus giving them the ability to fight these threats. We follow Thomas Ward, a young farmer, who will start his training with the old spook John Gregory. Little does he know that he is promised to a great destiny…
+
+Though this series is aimed at teenagers, I still find it enjoyable to read. The characters and the plot are great, and though not quite as frightening as it claims, the author manages to create an amazing atmosphere, and uses his knowledge of his county to transform it into a surreal place bathing in magic and mysteries. The series (13 books + a trilogy sequel) is now over in English, with the last French adaptation coming in libraries by November 2019.
+
+## Magazines
+
+I don’t read any magazines at all anymore, but when I was younger I was a huge fan of the Spirou magazine, which published franco/belgian comics, and Science&Vie.
+
+# 2019-2020
+
+13/11/2019
+
+Today I started watching the new Star Wars series "The Mandalorian". While not revolutionary, it was really enjoyable to watch. I liked the dialogues, which gave us a lot of contexts while being too much expositional, context that has been lacking in the main series of films (7 and 8). The series extends the universe of Star Wars, and the music, while not the best the saga had, is still good in my opinion. Looking forward to seeing what it's going to give us next.
+
+

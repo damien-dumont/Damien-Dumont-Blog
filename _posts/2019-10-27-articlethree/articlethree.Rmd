@@ -1,7 +1,7 @@
 ---
 title: "NASA's Planet-Hunting Probe Joins the Search for Intelligent Aliens"
 description: |
-  A short description of the post.
+  Scientists with the TESS mission will work with the Breakthrough Listen project.
 author:
   - name: Damien Dumont
     url: {"https://www.space.com/breakthrough-listen-nasa-tess-seti-search.html"}
@@ -14,29 +14,31 @@ output:
     self_contained: false
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
-![Credit: (Image: © Robin Dienel, courtesy of the Carnegie Institution for Science)](images/Planet.jpg)
+
+![Credit: (Image: © Robin Dienel, courtesy of the Carnegie Institution for Science)](images/planet.jpg)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
+Source : <https://www.space.com/breakthrough-listen-nasa-tess-seti-search.html>, Octobre 23, 2019
 
+Word count: 655
 
 ## II - VOCABULARY:
 
 | Words from the text | Synonym/explanation in English | French translation |
 |--|--|--|
-
+| Endeavors | An attempt to achieve a goal | tentative |
+| Oddities | A strange or peculiar person, thing, or trait | Bizarrerie, curiosité |
+| Dimming | Make or become less bright or distinct | Atténuation |
 
 ## III - ANALYSIS TABLE ABOUT THE STUDY:
 
-| Researchers? |  |
+| Researchers? | Pete Worden, Sara Seager, Andrew Siemion |
 |-|-|
-| Published in? When (if mentioned)? |  |
-| General topic |  |
-| Procedure/what was examined |  |
-| Conclusion/discovery |  |
-| Remaining questions |  |
+| Published in? When (if mentioned)? | Space.com, Octobre 23, 2019 |
+| General topic | Discover alien structures using a probe |
+| Procedure/what was examined | NASA launched a space probe in april 18 "on a mission to hunt for alien planets circling bright, relatively nearby stars", using the transit method (the probe "looks for slight dips in star brightness caused when an orbiting planet crosses the star's face") |
+| Conclusion/discovery | To this date (Oct 23), the probe has discovered "1,000 "objects of interest," 29 of which are confirmed alien planets." |
+| Remaining questions | The team has to be careful not to confuse possible alien megastructures, and natural phenomena, like an asteroid field for example. |
 

@@ -1,7 +1,5 @@
 ---
-title: "My english activity log"
-description: |
-  Or where I list what I have been watching this year.
+title: "My english activity log: M.E.A.L."
 author:
   - name: Damien Dumont
 date: 11-17-2019
@@ -36,8 +34,6 @@ I don’t read any magazines at all anymore, but when I was younger I was a huge
 
 # 2019-2020
 
-13/11/2019
-
-Today I started watching the new Star Wars series "The Mandalorian". While not revolutionary, it was really enjoyable to watch. I liked the dialogues, which gave us a lot of contexts while being too much expositional, context that has been lacking in the main series of films (7 and 8). The series extends the universe of Star Wars, and the music, while not the best the saga had, is still good in my opinion. Looking forward to seeing what it's going to give us next.
+* **13/11/2019** Today I started watching the new Star Wars series "The Mandalorian". While not revolutionary, it was really enjoyable to watch. I liked the dialogues, which gave us a lot of contexts while being too much expositional, context that has been lacking in the main series of films (7 and 8). The series extends the universe of Star Wars, and the music, while not the best the saga had, is still good in my opinion. Looking forward to seeing what it's going to give us next.
 
 

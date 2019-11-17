@@ -1,5 +1,5 @@
 ---
-title: "NASA's Planet-Hunting Probe Joins the Search for Intelligent Aliens"
+title: "Article three: NASA's Planet-Hunting Probe Joins the Search for Intelligent Aliens"
 description: |
   Scientists with the TESS mission will work with the Breakthrough Listen project.
 author:

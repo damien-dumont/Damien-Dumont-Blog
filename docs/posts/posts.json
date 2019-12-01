@@ -16,8 +16,8 @@
   },
   {
     "path": "posts/2019-10-27-articlefour/",
-    "title": "'Alien Megastructure' Star May Not Be So Special After All",
-    "description": "A short description of the post.",
+    "title": "Article four: 'Alien Megastructure' Star May Not Be So Special After All",
+    "description": "More mysteriously dimming stars have been spotted.",
     "author": [
       {
         "name": "Damien Dumont",
@@ -26,12 +26,12 @@
         }
       }
     ],
-    "date": "2019-10-27",
+    "date": "2019-10-28",
     "categories": [
-      "Alien civilization"
+      "Alien civilizations"
     ],
     "preview": "posts/2019-10-27-articlefour/images/system.jpg",
-    "last_modified": "2019-10-27T14:46:55+01:00"
+    "last_modified": "2019-12-01T23:06:30+01:00"
   },
   {
     "path": "posts/2019-10-27-articlethree/",
@@ -47,10 +47,11 @@
     ],
     "date": "2019-10-27",
     "categories": [
-      "Habitable planets"
+      "Habitable planets",
+      "Alien civilizations"
     ],
     "preview": "posts/2019-10-27-articlethree/images/planet.jpg",
-    "last_modified": "2019-11-17T17:09:55+01:00"
+    "last_modified": "2019-12-01T23:05:49+01:00"
   },
   {
     "path": "posts/2019-10-07-articletwo/",

@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2020-02-16-articlesix/",
+    "title": "Article six : Other planets could have even more life than Earth does, scientists say",
+    "description": "'This is a surprising conclusion'",
+    "author": [
+      {
+        "name": "Damien Dumont",
+        "url": {
+          "https://www.independent.co.uk/life-style/gadgets-and-tech/news/alien-life-other-planets-worlds-exoplanets-earth-science-space-a9075316.html": {}
+        }
+      }
+    ],
+    "date": "2020-02-16",
+    "categories": [
+      "Habitable planets"
+    ],
+    "preview": "posts/2020-02-16-articlesix/images/planets.jpeg",
+    "last_modified": "2020-02-16T19:32:29+01:00"
+  },
+  {
     "path": "posts/2019-12-15-articlefive/",
     "title": "Article five : Water is 'common' on alien worlds, scientists say in finding that could transform search for extraterrestrial life",
     "description": "Water is thought to be a key component to live anywhere in the universe.",

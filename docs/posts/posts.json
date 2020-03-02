@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-03-02-articleseven/",
+    "title": "Article seven : Astronomers to sweep entire sky for signs of extraterrestrial life",
+    "description": "Project is collaboration between privately-funded institute and New Mexico observatory.",
+    "author": [
+      {
+        "name": "Damien Dumont",
+        "url": {
+          "https://www.theguardian.com/science/2020/feb/15/astronomers-to-sweep-entire-sky-for-signs-of-extraterrestrial-life": {}
+        }
+      }
+    ],
+    "date": "2020-03-02",
+    "categories": [],
+    "preview": "posts/2020-03-02-articleseven/images/telescope.jpg",
+    "last_modified": "2020-03-02T19:11:23+01:00"
+  },
+  {
     "path": "posts/2020-02-16-articlesix/",
     "title": "Article six : Other planets could have even more life than Earth does, scientists say",
     "description": "'This is a surprising conclusion'",

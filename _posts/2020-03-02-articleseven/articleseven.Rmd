@@ -8,6 +8,7 @@ author:
 date: 03-02-2020
 preview: images/telescope.jpg
 output:
+  pdf_document: null
   distill::distill_article:
     self_contained: false
 ---

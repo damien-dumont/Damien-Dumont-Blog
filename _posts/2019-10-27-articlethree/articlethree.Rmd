@@ -13,11 +13,13 @@ date: 10-27-2019
 output:
   distill::distill_article:
     self_contained: false
+  pdf_document: null
 ---
 
 
 
-![Credit: (Image: © Robin Dienel, courtesy of the Carnegie Institution for Science)](images/planet.jpg)
+![](images/planet.jpg)
+Credit: (Image: © Robin Dienel, courtesy of the Carnegie Institution for Science)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 

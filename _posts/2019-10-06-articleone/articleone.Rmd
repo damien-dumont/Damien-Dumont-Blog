@@ -1,25 +1,27 @@
 ---
-title: "Article one : Water found for first time on 'potentially habitable' planet"
+title: 'Article one : Water found for first time on ''potentially habitable'' planet'
+author:
+- name: Damien Dumont
+  url: {}
+date: "10-06-2019"
+output:
+  pdf_document: null
+  html_document:
+    df_print: paged
+  distill::distill_article:
+    self_contained: no
 description: |
   Astronomers have for the first time discovered water in the atmosphere of a planet orbiting within the habitable zone of a distant star.
-author:
-  - name: Damien Dumont
-    url: {}
-date: 10-06-2019
 preview: image/water_exoplanet.jpg
-categories:
-  - Habitable planets
-output:
-  distill::distill_article:
-    self_contained: false
+categories: Habitable planets
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, echo = FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-
-![ Credits:ESA/UCL (https://ichef.bbci.co.uk/news/660/cpsprodpb/C56F/production/_108734505_k2-18b.png)](image/water_exoplanet.jpg)
+![](image/water_exoplanet.jpg)
+Credits:ESA/UCL (https://ichef.bbci.co.uk/news/660/cpsprodpb/C56F/production/_108734505_k2-18b.png)
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 Source : <https://www.bbc.com/news/science-environment-49648746>, September 12, 2019

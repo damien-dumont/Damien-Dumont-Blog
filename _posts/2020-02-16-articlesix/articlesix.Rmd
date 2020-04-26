@@ -12,6 +12,7 @@ preview: images/planets.jpeg
 output:
   distill::distill_article:
     self_contained: false
+  pdf_document: null
 ---
 
 ```{r setup, include=FALSE}

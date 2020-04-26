@@ -12,12 +12,14 @@ preview: image/RNA.jpg
 output:
   distill::distill_article:
     self_contained: false
+  pdf_document: null
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
-![Credit: Alamy](image/RNA.jpg)
+![](image/RNA.jpg)
+Credit: Alamy
 
 ## I - SOURCE OF THE ARTICLE WITH PUBLICATION DATE AND WORD COUNT:
 
